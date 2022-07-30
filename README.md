@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 - 📖 Read [my blog](https://jonathanpeterson.com/)
-- 👷‍♂️ See what I'm currently [working on](http://status.eonasdan.com/).
 
 <div style="align:center;" align="center">
   <center>
